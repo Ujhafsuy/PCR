@@ -357,7 +357,7 @@ padding-top: 1rem;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    width: 20.4rem;
+    width: 100%;
   }
 
   #main{
@@ -423,7 +423,7 @@ width: 13rem;
     align-items: center;
     justify-content: center;
   background: var(--colors-grey-600);
-  height: 71rem;
+  height: 75rem;
   width: 15rem;
   text-align: center;
   font: 400 0.9rem "Poppins", sans-serif; 
