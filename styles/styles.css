@@ -139,8 +139,8 @@ transition: 0.5s;
   align-items: center;
   justify-content: center;
 background: var(--colors-grey-600);
-height: 15rem;
-width: 25rem;
+height: 26rem;
+width: 35rem;
 text-align: center;
 font: 400 0.9rem "Poppins", sans-serif; 
 
@@ -150,7 +150,7 @@ font: 400 0.9rem "Poppins", sans-serif;
 
 .ler{
 
-  
+
   text-align: center;
 font: 400 0.9rem "Poppins", sans-serif; 
 
@@ -299,7 +299,7 @@ justify-content: center;
       .left{
     position: absolute;
     top: 26rem;
-    left: 4rem;
+    left: 10rem;
       text-align: center;
     width: 20rem;
     
@@ -314,7 +314,7 @@ justify-content: center;
         flex-direction: column;
         align-items: center;
         position: absolute;
-        left: 8%;
+        left: 4.5rem;
         top: 66rem;
         
       }
@@ -332,11 +332,16 @@ justify-content: center;
         align-items: center;
         justify-content: center;
       background: var(--colors-grey-600);
-      height: 25rem;
-      width: 17rem;
+      height: 50rem;
+  width: 20rem;
       text-align: center;
       font: 400 0.9rem "Poppins", sans-serif; 
       
+      }
+      .sections{
+        position: relative;
+        left: 4.5rem;
+        right: 0;
       }
 }
 
@@ -352,7 +357,7 @@ padding-top: 1rem;
     flex-direction: column;
     justify-content: center;
     text-align: center;
- 
+    width: 20.5rem;
   }
 
   #main{
@@ -385,7 +390,7 @@ a{
   .left{
 position: absolute;
 top: 26rem;
-left: 4rem;
+left: 4.5rem;
   text-align: center;
 width: 13rem;
 
@@ -400,7 +405,7 @@ width: 13rem;
     flex-direction: column;
     align-items: center;
     position: absolute;
-    left: 8%;
+    left: -2rem;
     top: 77rem;
     
   }
@@ -418,8 +423,8 @@ width: 13rem;
     align-items: center;
     justify-content: center;
   background: var(--colors-grey-600);
-  height: 25rem;
-  width: 17rem;
+  height: 70rem;
+  width: 15rem;
   text-align: center;
   font: 400 0.9rem "Poppins", sans-serif; 
   
