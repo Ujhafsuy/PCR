@@ -14,6 +14,8 @@ for (i = 0; i < acc.length; i++) {
   })
 }*/
 
+const js = 'ebsagide'
+
 const acc = document.getElementsByClassName('sections')
 
 for (i = 0; i < acc.length; i++) {
